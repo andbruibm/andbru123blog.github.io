@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.andbru123.eu.org</id>
+    <title>Gridea</title>
+    <updated>2023-09-19T06:36:41.768Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.andbru123.eu.org"/>
+    <link rel="self" href="https://blog.andbru123.eu.org/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://blog.andbru123.eu.org/images/avatar.png</logo>
+    <icon>https://blog.andbru123.eu.org/favicon.ico</icon>
+    <rights>All rights reserved 2023, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Gridea在github pages上搭建静态博客]]></title>
+        <id>https://blog.andbru123.eu.org/post/ru-he-shi-yong-gridea-zai-github-pages-shang-da-jian-jing-tai-bo-ke-zhan-dian/</id>
+        <link href="https://blog.andbru123.eu.org/post/ru-he-shi-yong-gridea-zai-github-pages-shang-da-jian-jing-tai-bo-ke-zhan-dian/">
+        </link>
+        <updated>2023-09-03T07:42:24.000Z</updated>
+        <content type="html"><![CDATA[<p>如果您计划创建自己的博客站点，并寻找一种简单而强大的方式来管理内容，那么<a href="https://open.gridea.dev/">Gridea</a>可能是一个不错的选择。在本文中，我们将向您介绍如何在 GitHub Pages 上使用 Gridea 搭建静态博客站点的步骤。</p>
+<h3 id="下载和安装-gridea">下载和安装 Gridea</h3>
+<p>首先，前往Gridea 官网您会在页面下方找到一个下载图标<img src="https://blog.andbru123.eu.org/post-images/1693738218348.png" alt="" loading="lazy">点击它，您将被引导到 Gridea 的 GitHub 仓库页面。如果您更倾向于使用国内 Gitee 下载源，可以访问<a href="https://gitee.com/fehey/gridea/releases/tag/v0.9.3">此链接</a> 获取最新版本。</p>
+<ol>
+<li>
+<p>下载 Gridea 后，双击运行安装程序。如果您不想将软件默认安装在 C 盘，可以自定义安装目录 <img src="https://blog.andbru123.eu.org/post-images/1693737437506.png" alt="" loading="lazy"></p>
+</li>
+<li>
+<p>安装完成后，运行软件。在主界面中，点击 &quot;远程&quot; <img src="https://blog.andbru123.eu.org/post-images/1693737478224.png" alt="" loading="lazy"> 您将看到多个平台供您选择，这里请选择 &quot;GitHub Pages&quot;。</p>
+</li>
+</ol>
+<h3 id="配置-github-仓库">配置 GitHub 仓库</h3>
+<p>在配置 Gridea 与 GitHub Pages 之前，确保您已经创建了一个 GitHub 仓库来托管您的博客内容，并启用了 GitHub Pages 设置。以下是配置步骤：</p>
+<ul>
+<li>填写域名和仓库名称，确保与您的 GitHub 仓库设置匹配。</li>
+<li>分类可以默认选择 &quot;master&quot;。</li>
+<li>仓库用户名应该是您的 GitHub 用户名。</li>
+<li>邮箱字段可以留空。</li>
+<li>令牌需要通过 <a href="https://github.com/settings/tokens/new">GitHub 的令牌生成页面</a> 获取，确保它具有必要的权限。</li>
+<li>如果您计划使用自定义域名，请填写 CNAME 字段。<br>
+<img src="https://blog.andbru123.eu.org/post-images/1693737555896.png" alt="" loading="lazy"></li>
+</ul>
+<p>完成上述步骤后，您已经成功配置了 Gridea 以在 GitHub Pages 上搭建静态博客站点。现在您可以开始编写和发布博文，将您的想法和内容与世界分享！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://blog.andbru123.eu.org/post/hello-gridea/</id>
+        <link href="https://blog.andbru123.eu.org/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
