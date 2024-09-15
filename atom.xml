@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.andbru123.eu.org</id>
+    <title>Gridea</title>
+    <updated>2024-09-15T06:05:54.408Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.andbru123.eu.org"/>
+    <link rel="self" href="https://blog.andbru123.eu.org/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://blog.andbru123.eu.org/images/avatar.png</logo>
+    <icon>https://blog.andbru123.eu.org/favicon.ico</icon>
+    <rights>All rights reserved 2024, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[使用狐猴浏览器直连ao3]]></title>
+        <id>https://blog.andbru123.eu.org/post/shi-yong-hu-hou-liu-lan-qi-zhi-lian-ao3/</id>
+        <link href="https://blog.andbru123.eu.org/post/shi-yong-hu-hou-liu-lan-qi-zhi-lian-ao3/">
+        </link>
+        <updated>2024-09-15T04:35:51.000Z</updated>
+        <content type="html"><![CDATA[<p>在开始我们教程之前，首先请你下载狐猴浏览器哦。下载的途径有很多，你可以点击这个链接进行访问：<a href="https://h5.appstore.vivo.com.cn/#/details?search_word=%E7%8B%90%E7%8C%B4%E6%B5%8F%E8%A7%88%E5%99%A8&amp;search_action=4&amp;app_id=3443400&amp;app_pos=1&amp;source=5&amp;appId=3443400&amp;frompage=searchResultApp&amp;listpos=1">狐猴浏览器下载链接</a>，然后选择安装就可以啦。</p>
+<p>当软件安装完毕之后，一定要记得允许浏览器所需要的权限，并且同意相关协议。</p>
+<h2 id="第一步">第一步：</h2>
+<p>在浏览器的“搜索和输入地址栏”中输入“chrome://flags”。进行访问之后，你会看到好多英文选项，大概就像下面这样哦。这个时候呢，在“search flags”里搜索“quic”“clienthello”“dns https”，然后开启这些选项哟，具体的样子可以参照下面的图示。</p>
+<p><img src="https://blog.andbru123.eu.org/post-images/1726375894593.jpg" alt="图片描述" loading="lazy"><br>
+<img src="https://blog.andbru123.eu.org/post-images/1726377428613.jpg" alt="图片描述" loading="lazy"><br>
+<img src="https://blog.andbru123.eu.org/post-images/1726376659848.jpg" alt="图片描述" loading="lazy"></p>
+<h2 id="第二步">第二步：</h2>
+<p>点击菜单图标，接着再点击设置选项，这样就可以进入设置页面啦。随后呢，选择隐私设置和安全性，开启安全 DNS，并且使用自定义地址，也就是“<a href="https://doh.ttwglwie.rr.nu">https://doh.ttwglwie.rr.nu</a>”哦。</p>
+<p><img src="https://blog.andbru123.eu.org/post-images/1726378187902.jpg" alt="图片描述" loading="lazy"><br>
+<img src="https://blog.andbru123.eu.org/post-images/1726378269902.jpg" alt="图片描述" loading="lazy"><br>
+<img src="https://blog.andbru123.eu.org/post-images/1726378317635.jpg" alt="图片描述" loading="lazy"><br>
+<img src="https://blog.andbru123.eu.org/post-images/1726378423072.jpg" alt="图片描述" loading="lazy"></p>
+<h2 id="第三步">第三步：</h2>
+<p>来，点击这里检查一下<a href="https://cloudflare-quic.com/">检测浏览器是否支持 http/3</a>。如果显示为“http/3”呢，那就点击这里访问<a href="https://archiveofourown.org/">原站</a>；要是显示为“http/2”的话，那你就得仔细检查一下哪里的设置还没有弄好哦。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://blog.andbru123.eu.org/post/hello-gridea/</id>
+        <link href="https://blog.andbru123.eu.org/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
